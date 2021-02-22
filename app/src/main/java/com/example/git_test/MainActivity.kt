@@ -13,5 +13,9 @@ class MainActivity : AppCompatActivity() {
         //criar método B
         
         //tiago criou o método C
+
+        // testes para o requisito 10
+        // bla bla bla
+        // requisito 10
     }
 }
