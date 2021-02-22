@@ -17,6 +17,7 @@ class MainActivity : AppCompatActivity() {
         // testes para o requisito 10
         // bla bla bla
         // requisito 10 v1
+        // requisito 10 v2
 
     }
 }
